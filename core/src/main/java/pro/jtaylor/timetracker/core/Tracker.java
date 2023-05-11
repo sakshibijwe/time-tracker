@@ -1,6 +1,6 @@
 package pro.jtaylor.timetracker.core;
 
-import org.springframework.beans.factory.annotation.Autowired;
+//import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import pro.jtaylor.timetracker.core.dao.TimeEntry;
 
